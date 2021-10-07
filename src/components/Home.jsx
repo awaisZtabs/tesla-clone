@@ -6,18 +6,18 @@ function Home() {
   return (
     <Container>
       <Section
-        title="Model S"
-        description="Order online for touchless delivery."
-        leftBtnTxt="Custom Order"
-        rightBtnTxt="Existing Inventory"
-        image="model-s.jpg"
-      ></Section>
-      <Section
         title="Model Y"
         description="Order online for touchless delivery."
         leftBtnTxt="Custom Order"
         rightBtnTxt="Existing Inventory"
         image="model-y.jpg"
+      ></Section>
+      <Section
+        title="Model S"
+        description="Order online for touchless delivery."
+        leftBtnTxt="Custom Order"
+        rightBtnTxt="Existing Inventory"
+        image="model-s.jpg"
       ></Section>
       <Section
         title="Model 3"
